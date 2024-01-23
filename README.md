@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pacyuzu16
+- 👋 Hi, I’m Cyuzuzo Pacifique
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer engeeneering in CST
 - 💞️ I’m looking to collaborate on software development
