@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cyuzuzo Pacifique
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning computer engeeneering in CST
+- 🌱 I’m currently learning computer engeeneering in UR- College of Sciences and Technology
 - 💞️ I’m looking to collaborate on software development
 - 📫 text me on whatsap +250789171532
 
