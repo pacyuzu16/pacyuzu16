@@ -500,11 +500,11 @@ And yes — **naming things well** is the hardest part of programming.
   <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
 </p>
 
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/weloverw)
-
-</div>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/weloverw">
+    <img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+  </a>
+</p>
 
 ---
 
