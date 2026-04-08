@@ -206,7 +206,7 @@ portfolio:  pacyuzu16.vercel.com
 ## 🐍 Eating My Contributions
 
 <p align="center">
- <src="https://raw.githubusercontent.com/pacyuzu16/pacyuzu16/output/github-contribution-grid-snake.svg"/>
+ <img src="https://raw.githubusercontent.com/pacyuzu16/pacyuzu16/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
