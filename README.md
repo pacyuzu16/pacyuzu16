@@ -495,9 +495,9 @@ And yes — **naming things well** is the hardest part of programming.
 
 <!-- FUN BADGES -->
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
+  <img src="https://img.shields.io/badge/Built%20with-Love-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Makes%20People-Smile-yellow?style=for-the-badge" />
 </p>
 
 <p align="center">
