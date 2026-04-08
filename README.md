@@ -104,7 +104,7 @@ mindmap
       System Design Patterns
       TypeScript Mastery
       Ethical Hacking
-    🎯 2025 Goals
+    🎯 2026 Goals
       Land an Internship
       3 Production Apps Live
       AWS Certification
@@ -176,45 +176,6 @@ mindmap
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,ubuntu,vim&theme=dark&perline=8" />
 </a>
 
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                  SKILL PROFICIENCY                            -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-## 💪 Skill Proficiency
-
-<div align="center">
-<table>
-<tr>
-<td valign="top" width="50%">
-
-| Skill       | Proficiency |
-|:------------|:------------|
-| Python      | ![85](https://progress-bar.dev/85/?title=&width=190&color=9b59b6) |
-| JavaScript  | ![80](https://progress-bar.dev/80/?title=&width=190&color=9b59b6) |
-| React       | ![75](https://progress-bar.dev/75/?title=&width=190&color=9b59b6) |
-| Node.js     | ![72](https://progress-bar.dev/72/?title=&width=190&color=9b59b6) |
-| TypeScript  | ![65](https://progress-bar.dev/65/?title=&width=190&color=9b59b6) |
-| PHP         | ![60](https://progress-bar.dev/60/?title=&width=190&color=9b59b6) |
-
-</td>
-<td valign="top" width="50%">
-
-| Skill | Proficiency |
-|:------|:------------|
-| Linux / Bash | ![78](https://progress-bar.dev/78/?title=&width=190&color=9b59b6) |
-| Git & GitHub | ![88](https://progress-bar.dev/88/?title=&width=190&color=9b59b6) |
-| SQL / PostgreSQL | ![70](https://progress-bar.dev/70/?title=&width=190&color=9b59b6) |
-| MongoDB | ![65](https://progress-bar.dev/65/?title=&width=190&color=9b59b6) |
-| Docker | ![45](https://progress-bar.dev/45/?title=&width=190&color=9b59b6) |
-| Django / Flask | ![60](https://progress-bar.dev/60/?title=&width=190&color=9b59b6) |
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
