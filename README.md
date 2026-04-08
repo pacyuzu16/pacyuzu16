@@ -1,75 +1,77 @@
-<h1 align="center">Hi there, I'm Cyuzuzo Pacifique 👋</h1>
+<!-- Profile README for pacyuzu16 -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3¢er=true&width=435&lines=Computer+Engineering+Student;Software+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋🏾,;+I'm+Cyuzuzo+:+),;+BSc+Computer+Engineering;+University+of+Rwanda,;+Software+Dev+Enthusiast•);+Always+Learning•);" alt="Typing animation" />
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pacyuzu16&label=Profile+views&color=0e75b6&style=flat" alt="pacyuzu16" />
-  <a href="https://github.com/pacyuzu16?tab=followers">
-    <img src="https://img.shields.io/github/followers/pacyuzu16?label=Followers&style=social" alt="followers" />
-  </a>
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/pacyuzu16?style=social)](https://github.com/pacyuzu16)
+![Profile views](https://komarev.com/ghpvc/?username=pacyuzu16&color=blueviolet)
 
 ---
 
-### 🙋‍♂️ About Me
+## ⚙ **Languages-Frameworks-Tools**
 
-- 🎓 Studying **Computer & Software Engineering** @ University of Rwanda – CST
-- 🌍 Based in **Kigali, Rwanda**
-- 💻 Passionate about **software development** and **building real-world solutions**
-- 🌱 Currently learning **React**, **Firebase**, and **System Design**
-- 🤝 Looking to collaborate on **open source projects**
-- 📫 Reach me on WhatsApp: **+250789171532**
+<br />
 
----
+_Languages_
 
-### ⚙️ Languages, Frameworks & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&labelColor=181717)
+![JavaScript](https://img.shields.io/badge/Javascript_es6+-F7DF1E?logo=javascript&color=181717)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&labelColor=181717)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&labelColor=181717)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&labelColor=181717)
+![CSS3](https://img.shields.io/badge/CSS3-663399?logo=css3&labelColor=181717)
 
-**Languages**
+_Frameworks & libraries_
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&labelColor=181717)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&labelColor=181717)
+![Flask](https://img.shields.io/badge/Flask-FFFFFF?logo=flask&color=181717)
+![Node.js](https://img.shields.io/badge/Nodejs-5FA04E?logo=nodedotjs&labelColor=181717)
 
-**Frameworks & Libraries**
+_Tools & platforms_
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&labelColor=181717)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&labelColor=181717)
+![VS Code](https://img.shields.io/badge/VSCode-2F80ED?logo=visualstudiocode&labelColor=181717)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&labelColor=181717)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&labelColor=181717)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&labelColor=181717)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&labelColor=181717)
 
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<br />
 
 ---
 
-### 🌐 Where to Find Me
+## 🌐 **Where to find me**
 
-<p>
-  <a href="https://wa.me/250789171532">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://github.com/pacyuzu16">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
+<br />
+
+🌍 **Portfolio:** [pacyuzu.vercel.com](https://pacyuzu.vercel.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/pacyuzu16)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&labelColor=181717)](https://wa.me/250789171532)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&labelColor=181717)](https://linkedin.com/in/cyuzuzo-pacifique-588671280/)
+[![Twitter / X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&labelColor=181717)](https://x.com/tfisrw)
+
+<br />
 
 ---
 
-### ⚡ Stats
+## ⚡ Stats ⚡
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pacyuzu16&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pacyuzu16&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=pacyuzu16&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pacyuzu16&count_private=true&theme=react&border_radius=10" alt="Streak stats" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacyuzu16&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+<div align="center" style="margin-top: 1em;">
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pacyuzu16&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top languages" />
+</div>
+
+---
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+WhatsApp!;I'm+always+down+to+collab+:)">
+</h3>
