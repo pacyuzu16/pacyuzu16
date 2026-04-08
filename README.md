@@ -411,7 +411,7 @@ mindmap
   <a href="https://linkedin.com/in/cyuzuzo-pacifique-588671280/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://x.com/tfisrw">
+  <a href="https://x.com/weloverww">
     <img src="https://img.shields.io/badge/Twitter%2FX-000000?logo=x&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://wa.me/250789171532">
