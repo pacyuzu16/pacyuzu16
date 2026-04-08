@@ -50,7 +50,7 @@ portfolio:  pacyuzu16.vercel.com
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pacyuzu16&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-trophies.vercel.app/?username=pacyuzu16&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" />
 </p>
 
 ---
@@ -206,7 +206,7 @@ portfolio:  pacyuzu16.vercel.com
 ## 🐍 Eating My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pacyuzu16/pacyuzu16/output/snake.svg" alt="Snake animation" />
+ src="https://raw.githubusercontent.com/pacyuzu16/pacyuzu16/output/github-contribution-grid-snake.svg"
 </p>
 
 ---
