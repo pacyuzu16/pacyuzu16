@@ -1,221 +1,381 @@
-<!-- ═══════════════════════════════════════════════ -->
-<!--           HEADER — Typing animation            -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--              ULTRA ANIMATED HEADER — capsule-render           -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=CYUZUZO%20PACIFIQUE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20Cybersec%20Curious%20%F0%9F%94%90&descSize=18&descAlignY=60&descColor=cccccc" />
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                  TYPING ANIMATION                             -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there+👋🏾+I'm+Cyuzuzo!;BSc+Computer+Engineering;University+of+Rwanda+🇷🇼;Software+Dev+Enthusiast+💻;Cybersecurity+Curious+🔐;Always+Building+•+Always+Learning+🚀;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=750&height=60&lines=Hey+there%2C+I'm+Cyuzuzo+%F0%9F%91%8B%F0%9F%8F%BE;BSc+Computer+%26+Software+Engineering;Building+the+Future+from+Kigali+%F0%9F%87%B7%F0%9F%87%BC;Full+Stack+%7C+Cybersec+%7C+Open+Source;Always+Coding.+Always+Learning.+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
+<!-- SOCIAL PROOF ROW -->
 <p align="center">
   <a href="https://github.com/pacyuzu16?tab=followers">
     <img src="https://img.shields.io/github/followers/pacyuzu16?label=Followers&style=social" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=pacyuzu16&color=blueviolet&style=flat&label=Profile+Views" />
-  <img src="https://img.shields.io/github/stars/pacyuzu16?affiliations=OWNER&style=social&label=Total+Stars" />
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=pacyuzu16&color=blueviolet&style=flat-square&label=Profile+Views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/pacyuzu16?affiliations=OWNER&style=social&label=Stars" />
 </p>
 
+<br/>
+
+<!-- STATUS BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-blueviolet?style=flat" />
-  <img src="https://img.shields.io/badge/Location-Kigali%2C%20Rwanda-blue?style=flat&logo=google-maps" />
-  <img src="https://img.shields.io/badge/University-UR%20CST-orange?style=flat" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations-success?style=flat" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collabs-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Kigali%2C%20Rwanda-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-blueviolet?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uni-UR%20CST-orange?style=for-the-badge&logo=googlescholar&logoColor=white" />
 </p>
+
+<br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                  ABOUT ME                       -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                     ABOUT ME                                  -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-## 🙋🏾‍♂️ About Me
+## 🧑🏾‍💻 About Me
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
 ```yaml
-name:       Cyuzuzo Pacifique
-username:   pacyuzu16
-location:   Kigali, Rwanda 🇷🇼
-education:  BSc Computer & Software Engineering — University of Rwanda
-focus:      Software Development | Web Apps | Open Source
-learning:   React • Firebase • System Design • Cloud Computing
-hobbies:    Coding • Problem Solving • Tech Exploration
-contact:    wa.me/250789171532
-portfolio:  pacyuzu16.vercel.com
+┌─────────────────────────────────────┐
+│  $ whoami                           │
+├─────────────────────────────────────┤
+│  name     :  Cyuzuzo Pacifique      │
+│  alias    :  pacyuzu16              │
+│  location :  Kigali, Rwanda 🇷🇼     │
+│  edu      :  BSc Comp Eng @ UR      │
+│  stack    :  React • Node • Fire    │
+│  learning :  System Design • Cloud  │
+│  contact  :  wa.me/250789171532     │
+│  portfolio:  pacyuzu16.vercel.com   │
+└─────────────────────────────────────┘
+```
+
+</td>
+<td valign="top" width="50%">
+
+```bash
+  💻 Currently Building
+  ├── Full-stack web applications
+  ├── React + Node.js backends
+  └── Open source projects
+
+  🌱 Currently Learning
+  ├── Firebase & Cloud Architecture
+  ├── TypeScript • System Design
+  └── Ethical Hacking Concepts 🔐
+
+  ⚡ Fun Fact
+  └── 3hrs debugging = 1 semicolon 😅
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                  WHAT I'M EXPLORING                           -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 🗺️ What I'm Exploring
+
+```mermaid
+mindmap
+  root((pacyuzu16))
+    🚀 Building
+      Full-Stack Web Apps
+      React + Node.js Backends
+      Open Source Tools
+    📖 Learning
+      Firebase & Cloud
+      System Design Patterns
+      TypeScript Mastery
+      Ethical Hacking
+    🎯 2025 Goals
+      Land an Internship
+      3 Production Apps Live
+      AWS Certification
+      Major OSS Contribution
+    🤝 Open For
+      Collaborations
+      Freelance Work
+      Mentorship
+      Creative Ideas
 ```
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--              TROPHY CASE                        -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                    TROPHY CASE                                -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=pacyuzu16&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=pacyuzu16&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--          LANGUAGES, FRAMEWORKS, TOOLS           -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                     TECH ARSENAL                              -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-## ⚙️ Languages · Frameworks · Tools
+## ⚡ Tech Arsenal
 
-<br/>
+<div align="center">
 
-**🖥️ Languages**
+### 🖥️ Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&labelColor=181717)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?logo=javascript&color=181717)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&labelColor=181717)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&color=181717)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&labelColor=181717)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&labelColor=181717)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&labelColor=181717)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&labelColor=181717)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&labelColor=181717)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&labelColor=181717)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&labelColor=181717)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&labelColor=181717)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,java,php,bash&theme=dark&perline=8" />
+</a>
 
-<br/>
+<br/><br/>
 
-**🧰 Frameworks & Libraries**
+### 🧰 Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&labelColor=181717)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&labelColor=181717)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&labelColor=181717)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&labelColor=181717)
-![Flask](https://img.shields.io/badge/Flask-FFFFFF?logo=flask&color=181717)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&labelColor=181717)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&labelColor=181717)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&labelColor=181717)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&labelColor=181717)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,bootstrap,tailwind&theme=dark&perline=8" />
+</a>
 
-<br/>
+<br/><br/>
 
-**🗄️ Databases**
+### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&labelColor=181717)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&labelColor=181717)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&labelColor=181717)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&labelColor=181717)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&labelColor=181717)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase,sqlite&theme=dark&perline=8" />
+</a>
 
-<br/>
+<br/><br/>
 
-**☁️ Cloud & DevOps**
+### ☁️ Cloud & DevOps
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&labelColor=181717)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&labelColor=181717)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&labelColor=181717)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&labelColor=181717)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&labelColor=181717)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions,docker,aws&theme=dark&perline=8" />
+</a>
 
-<br/>
+<br/><br/>
 
-**🛠️ Tools & Platforms**
+### 🛠️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&labelColor=181717)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&labelColor=181717)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&labelColor=181717)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&labelColor=181717)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&labelColor=181717)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&labelColor=181717)
-![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&labelColor=181717)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&labelColor=181717)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&labelColor=181717)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,ubuntu,vim&theme=dark&perline=8" />
+</a>
+
+</div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--              WHAT I'M UP TO                     -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                  SKILL PROFICIENCY                            -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-## 🔭 What I'm Up To
+## 💪 Skill Proficiency
 
-- 🔨 Building **full-stack web applications** with React + Node.js
-- 🌱 Deepening knowledge in **Firebase**, **TypeScript** and **System Design**
-- 🔐 Exploring **Cybersecurity** — networking, ethical hacking concepts
-- 🤝 Looking to **collaborate** on open source and real-world projects
-- 📚 Learning **Cloud Computing** and **DevOps** practices
-- ⚡ Fun fact: I once debugged for 3 hours and the fix was a missing semicolon 😅
+<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
+| Skill       | Proficiency |
+|:------------|:------------|
+| Python      | ![85](https://progress-bar.dev/85/?title=&width=190&color=9b59b6) |
+| JavaScript  | ![80](https://progress-bar.dev/80/?title=&width=190&color=9b59b6) |
+| React       | ![75](https://progress-bar.dev/75/?title=&width=190&color=9b59b6) |
+| Node.js     | ![72](https://progress-bar.dev/72/?title=&width=190&color=9b59b6) |
+| TypeScript  | ![65](https://progress-bar.dev/65/?title=&width=190&color=9b59b6) |
+| PHP         | ![60](https://progress-bar.dev/60/?title=&width=190&color=9b59b6) |
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--               SOCIAL LINKS                      -->
-<!-- ═══════════════════════════════════════════════ -->
+</td>
+<td valign="top" width="50%">
 
-## 🌐 Where to Find Me
+| Skill | Proficiency |
+|:------|:------------|
+| Linux / Bash | ![78](https://progress-bar.dev/78/?title=&width=190&color=9b59b6) |
+| Git & GitHub | ![88](https://progress-bar.dev/88/?title=&width=190&color=9b59b6) |
+| SQL / PostgreSQL | ![70](https://progress-bar.dev/70/?title=&width=190&color=9b59b6) |
+| MongoDB | ![65](https://progress-bar.dev/65/?title=&width=190&color=9b59b6) |
+| Docker | ![45](https://progress-bar.dev/45/?title=&width=190&color=9b59b6) |
+| Django / Flask | ![60](https://progress-bar.dev/60/?title=&width=190&color=9b59b6) |
 
-<p align="center">
-  <a href="https://pacyuzu16.vercel.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&labelColor=181717&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/pacyuzu16">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/cyuzuzo-pacifique-588671280/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&labelColor=181717&style=for-the-badge" />
-  </a>
-  <a href="https://x.com/tfisrw">
-    <img src="https://img.shields.io/badge/Twitter/X-000000?logo=x&labelColor=181717&style=for-the-badge" />
-  </a>
-  <a href="https://wa.me/250789171532">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&labelColor=181717&style=for-the-badge" />
-  </a>
-</p>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                  STATS                          -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                    GITHUB STATS                               -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=pacyuzu16&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" />
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=pacyuzu16&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10&include_all_commits=true" />
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pacyuzu16&count_private=true&theme=radical&border_radius=10" />
 </div>
 
 <div align="center" style="margin-top:1em">
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pacyuzu16&hide=HTML&langs_count=10&layout=compact&theme=radical&border_radius=10" />
+  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pacyuzu16&hide=HTML&langs_count=10&layout=compact&theme=radical&border_radius=10" />
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--           ACTIVITY GRAPH                        -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                  PROFILE ANALYTICS                            -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 📊 Profile Analytics
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pacyuzu16&theme=radical" />
+</p>
+<p align="center">
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pacyuzu16&theme=radical" />
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pacyuzu16&theme=radical" />
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pacyuzu16&theme=radical" />
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pacyuzu16&theme=radical" />
+</p>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                  FEATURED PROJECTS                            -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+
+
+  <a href="https://github.com/pacyuzu16/Rocket-game">
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=pacyuzu16&repo=Rocket-game&theme=radical&border_radius=10" />
+  </a>
+  <a href="https://github.com/pacyuzu16/StudentApp">
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=pacyuzu16&repo=StudentApp&theme=radical&border_radius=10" />
+  </a>
+
+
+<a href="https://github.com/pacyuzu16?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                 2025 LEARNING ROADMAP                         -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 🎯 2025 Learning Roadmap
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**🖼️ Frontend & Mobile**
+
+- ✅ React Fundamentals
+- ✅ Next.js Basics
+- ✅ Tailwind CSS
+- ⏳ React Native / Expo
+- ⏳ Advanced TypeScript
+- 🎯 PWA Development
+
+</td>
+<td valign="top" width="33%">
+
+**☁️ Backend & Cloud**
+
+- ✅ Node.js + Express
+- ✅ REST API Design
+- ✅ PostgreSQL & MongoDB
+- ⏳ GraphQL APIs
+- ⏳ Docker + Kubernetes
+- 🎯 AWS Associate Cert
+
+</td>
+<td valign="top" width="33%">
+
+**🔐 Security & Systems**
+
+- ✅ Linux & Bash Scripting
+- ✅ Network Fundamentals
+- ⏳ CTF Competitions 🚩
+- ⏳ Ethical Hacking (CEH)
+- 🎯 Penetration Testing
+- 🎯 Security+ Certification
+
+</td>
+</tr>
+</table>
+
+> ✅ Done &nbsp;|&nbsp; ⏳ In Progress &nbsp;|&nbsp; 🎯 Planned
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--             GITHUB CONTRIBUTION CALENDAR                      -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 📅 GitHub Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/9b59b6/pacyuzu16" alt="GitHub Contribution Calendar" />
+</p>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                  ACTIVITY GRAPH                               -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pacyuzu16&theme=react-dark&bg_color=20232a&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pacyuzu16&theme=react-dark&bg_color=20232a&hide_border=true&area=true&area_color=9C3EE8&color=A855F7&line=9C3EE8&point=ffffff" />
 </p>
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--            SNAKE CONTRIBUTION GRAPH             -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--             SNAKE CONTRIBUTION GRAPH                          -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 ## 🐍 Eating My Contributions
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/pacyuzu16/pacyuzu16/output/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pacyuzu16/pacyuzu16/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pacyuzu16/pacyuzu16/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/pacyuzu16/pacyuzu16/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--             RANDOM DEV QUOTE                    -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                   RANDOM DEV QUOTE                            -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-## 💬 Quote of the Day
+## 💬 Daily Dose of Wisdom
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -223,14 +383,172 @@ portfolio:  pacyuzu16.vercel.com
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--              FOOTER ANIMATION                   -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                    RANDOM DEV JOKE                            -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+✌️🏾;Hit+me+up+on+WhatsApp+or+LinkedIn!;I'm+always+down+to+collab+🤝;Let's+build+something+awesome+🚀;From+Kigali+with+💙+—+pacyuzu16">
-</h3>
+## 😄 Random Dev Joke
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=false" alt="Random Dev Joke" />
 </p>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                   MY DEV ENVIRONMENT                          -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 🖥️ Dev Environment
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows_11_+_WSL2-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testing-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Browser-Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</p>
+
+<details>
+<summary>⚙️ My VS Code Extensions Stack</summary>
+<br/>
+
+| Extension | Purpose |
+|-----------|---------|
+| Prettier | Code formatting |
+| ESLint | JavaScript/TypeScript linting |
+| GitLens | Git history & blame annotations |
+| Tailwind CSS IntelliSense | Tailwind autocomplete |
+| REST Client | API testing in editor |
+| Thunder Client | GUI API testing |
+| Auto Rename Tag | HTML/JSX tag pair renaming |
+| Path IntelliSense | File path autocomplete |
+| Material Icon Theme | Beautiful file icons |
+| Error Lens | Inline error highlighting |
+
+</details>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                    SOCIAL LINKS                               -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 🌐 Find Me Online
+
+<p align="center">
+  <a href="https://pacyuzu16.vercel.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/pacyuzu16">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/cyuzuzo-pacifique-588671280/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://x.com/tfisrw">
+    <img src="https://img.shields.io/badge/Twitter%2FX-000000?logo=x&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://wa.me/250789171532">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                   FOOTER ANIMATION                            -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--              COLLAPSIBLE SECTIONS — FUN STUFF                 -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<details>
+<summary>🎮 When I'm Not Coding...</summary>
+<br/>
+
+- 🎵 Listening to music — R&B, Afrobeat, Lo-fi chill beats
+- 📺 Watching tech YouTube (Fireship, Theo, ThePrimeagen, NetworkChuck)
+- 🏃‍♂️ Going for walks to clear my head after debugging sessions
+- 📚 Reading about tech trends, startups, and African innovation
+- 🎮 Gaming occasionally (not ashamed)
+- ☕ Brewing coffee while planning my next project
+
+</details>
+
+<details>
+<summary>🤔 Ask Me About...</summary>
+<br/>
+
+- 🌐 Full-stack web development (React + Node.js + databases)
+- 🗄️ Database design and query optimization
+- 🐧 Linux, Bash scripting, and the terminal life
+- 🔐 Basic cybersecurity concepts and staying safe online
+- 🇷🇼 Tech scene in Rwanda & East Africa — it's growing fast!
+- 🎓 Tips for CS/Computer Engineering students
+
+</details>
+
+<details>
+<summary>💡 My Coding Philosophy</summary>
+<br/>
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+> *"Make it work, make it right, make it fast."* — Kent Beck
+
+> *"The best code is no code at all."* — Jeff Atwood
+
+I believe in clean, readable, and maintainable code over clever tricks.
+I'd rather spend 20 minutes thinking about a good solution than 2 hours debugging a bad one.
+And yes — **naming things well** is the hardest part of programming.
+
+</details>
+
+<details>
+<summary>🌱 What I Want to Learn Next</summary>
+<br/>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kubernetes,rust,go,redis,graphql,electron,flutter,solidity&theme=dark" />
+</p>
+
+| Tech | Why |
+|------|-----|
+| Kubernetes | Container orchestration at scale |
+| Rust | Systems programming & performance |
+| Go (Golang) | Cloud-native backend services |
+| Redis | Caching & real-time features |
+| GraphQL | Flexible API design |
+| Flutter | Cross-platform mobile apps |
+| Solidity | Blockchain/Web3 (just curious) |
+
+</details>
+
+---
+
+<!-- FUN BADGES -->
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/weloverw">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=60&lines=Thanks+for+stopping+by!+%E2%9C%8C%F0%9F%8F%BE;Let's+build+something+legendary+%F0%9F%9A%80;Kigali+%E2%86%92+World+%F0%9F%8C%8D;Hit+me+up+%E2%80%94+I+don't+bite+%F0%9F%98%84;pacyuzu16+was+here" />
+</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
