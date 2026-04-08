@@ -48,7 +48,7 @@ _Tools & platforms_
 
 <br />
 
-🌍 **Portfolio:** [pacyuzu.vercel.com](https://pacyuzu.vercel.com)
+🌍 **Portfolio:** [pacyuzu.vercel.com](https://pacyuzu16.vercel.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/pacyuzu16)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&labelColor=181717)](https://wa.me/250789171532)
