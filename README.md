@@ -411,7 +411,7 @@ mindmap
   <a href="https://www.linkedin.com/in/pacyuzu16">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://x.com/welovedotrw">
+  <a href="https://x.com/pacyuzu">
     <img src="https://img.shields.io/badge/Twitter%2FX-000000?logo=x&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://wa.me/250789171532">
