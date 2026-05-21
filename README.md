@@ -408,7 +408,7 @@ mindmap
   <a href="https://github.com/pacyuzu16">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/cyuzuzo-pacifique-588671280/">
+  <a href="https://www.linkedin.com/in/pacyuzu16">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://x.com/welovedotrw">
